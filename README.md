@@ -1,4 +1,5 @@
-<h1>Hi, I'm Jean Abong!, <a href="https://www.linkedin.com/in/jean-abong-017125293/">Cybersecurity Professional</a>, <IT Professional 
+<h1>Hi, I'm Jean Abong!, <a href="https://www.linkedin.com/in/jean-abong-017125293/">Cybersecurity Professional</a>, <IT Professional
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
